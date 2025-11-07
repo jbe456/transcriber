@@ -17,7 +17,7 @@ A simple command‑line tool to generate `.srt` subtitles from any video (or aud
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-pip install openai-whisper torch
+pip install openai-whisper
 ```
 
 ## Usage
